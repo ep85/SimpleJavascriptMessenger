@@ -7,7 +7,7 @@ Make sure you open two tabs and login with any of the users in the database
 <br>
 <strong>User1:</strong><br>
 login: ep85@njit.edu <br>
-pass: 12345
+pass: 12345<br>
 <strong>User2:</strong><br>
 login: chb@njit.edu <br>
 pass: 12345
