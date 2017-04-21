@@ -3,11 +3,10 @@
 URL: https://web.njit.edu/~ep85/assignment5/ep85.php
 
 Instructions on how to use this are on the website
-Make sure you open two tabs and login with any of the users in the database
-Database: MYSQL
-Database functions: PHP
-Also used: HTML, CSS, Javascript, AJAX, jQuery
-<br>
+Make sure you open two tabs and login with any of the users in the database<br>
+Database: MYSQL<br>
+Database functions: PHP<br>
+Also used: HTML, CSS, Javascript, AJAX, jQuery<br>
 <strong>User1:</strong><br>
 login: ep85@njit.edu <br>
 pass: 12345<br>
