@@ -4,9 +4,9 @@ URL: https://web.njit.edu/~ep85/assignment5/ep85.php
 
 Instructions on how to use this are on the website
 Make sure you open two tabs and login with any of the users in the database<br>
-Database: MYSQL<br>
-Languages Used:
 <ul>
+    Languages Used:
+    <li> Database: MYSQL<br><li>
     <li>Database functions: PHP</li>
     <li>Also used: HTML, CSS, Javascript, AJAX, jQuery</li>
 </ul>
